@@ -1,3 +1,3 @@
 # blue
 
-https://omy01.github.io/blue/
+Live: https://omy01.github.io/blue/
